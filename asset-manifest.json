@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/album-image-cropper.github.io/static/css/main.1eb96ef6.css",
+    "main.js": "/album-image-cropper.github.io/static/js/main.bfa0c151.js",
+    "static/js/787.28cb0dcd.chunk.js": "/album-image-cropper.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/album-image-cropper.github.io/index.html",
+    "main.1eb96ef6.css.map": "/album-image-cropper.github.io/static/css/main.1eb96ef6.css.map",
+    "main.bfa0c151.js.map": "/album-image-cropper.github.io/static/js/main.bfa0c151.js.map",
+    "787.28cb0dcd.chunk.js.map": "/album-image-cropper.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb96ef6.css",
+    "static/js/main.bfa0c151.js"
+  ]
+}
